@@ -8,7 +8,7 @@ A primary self driving vision stack
 ### Car Detection:
 ![img](asset/car.gif)
 
-### Traffic Sign Detection:
+### Traffic Light Detection:
 ![img](asset/traffic_light.gif)
 
 ### License Plate Detection:
