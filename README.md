@@ -5,6 +5,12 @@ A primary self driving vision stack
 ### Lane Detection:
 ![img](asset/lane.gif)
 
+### Car Detection:
+![img](asset/car.gif)
+
+### Traffic Sign Detection:
+![img](asset/traffic_light.gif)
+
 ### License Plate Detection:
 #### Demo video
 ![img](asset/plate.gif)
