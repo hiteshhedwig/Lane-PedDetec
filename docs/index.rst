@@ -1,9 +1,9 @@
-.. SEDev documentation master file, created by
+.. Project SED-ev documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-SEDev documentation!
+Project SED-ev documentation!
 ==============================================
 
 Contents:
