@@ -1,8 +1,6 @@
 Project SED-ev
 ==============================
 
-
-# Project SEDev
 A primary self driving vision stack 
 
 ## Demo
