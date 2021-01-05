@@ -2,7 +2,7 @@ Project SED-ev
 ==============================
 
 A primary self driving vision stack 
-
+> Note: As a part of demonstration purpose all are implemented differently. So that it can be cleanly identified. To maintain brevity. 
 ## Demo
 ### Lane Detection:
 ![img](asset/lane.gif)
